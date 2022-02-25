@@ -1,0 +1,23 @@
+{
+  "require": {
+    "izniburak/router": "^2.5",
+    "catfan/medoo": "^2.1",
+    "verot/class.upload.php": "^2.1",
+    "filp/whoops": "^2.14",
+    "pmjones/auto-route": "^1.1",
+    "inhere/sroute": "^3.0"
+  },
+  "authors": [
+    {
+      "name": "Semih K.",
+      "email": "grafiksemih@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Buki\\Router\\": "src",
+      "application\\": "application",
+      "application\\controllers\\": "application/controllers"
+    }
+  }
+}
