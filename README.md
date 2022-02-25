@@ -4,7 +4,7 @@
 Project Setup
 
 <pre>
-composer install
+https://github.com/semihkizilboga/php-boirplate.git
 </pre>
 and
 <pre>
